@@ -1,0 +1,8 @@
+billing_account_id=
+environments=
+organization_id=
+prefix="ny"
+gcs_location=
+#root_node=    #Ex: "folders/XXXXXXXXXXXXX"
+#root_node=    #EX"organizations/XXXXXXXXXXXX"
+project_services=  #Ex:["cloudresourcemanager.googleapis.com", "cloudbilling.googleapis.com", "serviceusage.googleapis.com", "iam.googleapis.com”]
